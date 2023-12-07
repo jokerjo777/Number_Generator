@@ -1,1 +1,1 @@
-# Number_Generator
+# Simple random number generator
