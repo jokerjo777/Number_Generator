@@ -8,7 +8,7 @@ function fun() {
 
     let randomNumbers = Math.floor(Math.random() * (max - min + 1)) + min;
 
-    console.log("Random Number:", randomNumbers);
+    // console.log("Random Number:", randomNumbers);
     document.getElementById("write").innerHTML = randomNumbers;
 
 }
